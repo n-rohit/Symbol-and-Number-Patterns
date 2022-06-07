@@ -1,2 +1,2 @@
 # Symbol-and-Number-Patterns
-The .py and .ipynb files contain all the Commonly asked patterns in coding examinations.
+The .ipynb file contains all the Commonly asked Pattern Questions in coding examinations.
